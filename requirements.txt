@@ -1,0 +1,16 @@
+streamlit
+kaggle
+os
+warnings
+collections
+imghdr
+numpy
+pandas
+seaborn
+matplotlib.pyplot
+cv2
+PIL
+tensorflow
+sklearn.metrics
+tensorflow.keras.callbacks
+tensorflow.keras.optimizers
